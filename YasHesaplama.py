@@ -1,9 +1,9 @@
 
-bugunTarihi = int(input("Bugünün tarihini yıl olarak giriniz: "))
-dogumGunu = int(input("Doğum yılınızı giriniz: "))
+bugunTarihi = int(input("Bugunun tarihini yil olarak giriniz: "))
+dogumGunu = int(input("Dogum yilinizi giriniz: "))
 
 yas = bugunTarihi - dogumGunu
 
-print(yas,"yaşındasınız")
+print(str(yas),"yasindasiniz")
 
 #feyyazonur
